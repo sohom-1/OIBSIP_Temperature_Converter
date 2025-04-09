@@ -6,7 +6,7 @@ A simple web application to convert temperatures between Celsius and Fahrenheit 
 
 ## Features
 
-- *Temperature Conversion*: Converts temperatures between Celsius and Fahrenheit.
+- *Temperature Conversion*: Converts temperatures between Celsius and Fahrenheit and Kelvin.
 - *Responsive Design*: The application is designed to be responsive and user-friendly on various devices.
 - *Interactive UI*: Provides a clean and interactive user interface for temperature conversion.
 ## Technologies Used
